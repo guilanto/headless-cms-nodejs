@@ -1,6 +1,6 @@
 ### Sample Website with API-based CMS
 
-Node.js website is a website template with content managed from prismic.io (API-based CMS).
+Node.js website is a website template with content managed from prismic.io (API-based CMS). 
 
 #### Getting started
 
